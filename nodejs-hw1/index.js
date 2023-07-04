@@ -3,9 +3,12 @@ import { readFileSync, readFile, writeFileSync, appendFileSync}  from 'fs' ;
 import { resolve } from 'path';
 
 
-writeFileSync('./file.txt','Hello voila');
+
+const a = readFileSync('./file.txt')
+writeFileSync('./file.txt','Hello voila ');
 appendFileSync('./file.txt',' la suite')
 
+console.log(a);
 /* const a =() => {
   setTimeout(()=>console.log('a'),1000)
 }
