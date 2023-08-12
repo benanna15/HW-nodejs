@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "firstName": "Sarah",
+    "lastName": "Mizrahi",
+    "password":"12345",
+    "age": 24,
+    "email": "sarah@gmail.com",
+    "phone": "0534507849",
+    "role": "user"
+  },
+  {
+    "id": 2,
+    "firstName": "name",
+    "lastName": "Cohen",
+    "password":"12345",
+    "age": 26,
+    "email": "moshe@gmail.com",
+    "phone": "0534407849",
+    "role": "seller"
+  },
+  {
+    "id": 3,
+    "firstName": "name",
+    "lastName": "Cohen",
+    "password":"12345",
+    "age": 26,
+    "email": "moshe@gmail.com",
+    "phone": "0534407849",
+    "role": "seller"
+  },
+  {
+    "id": 4,
+    "firstName": "name",
+    "lastName": "Cohen",
+    "password":"12345",
+    "age": 26,
+    "email": "moshe@gmail.com",
+    "phone": "0534407849",
+    "role": "seller"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "author": "Moshe",
+    "titre": "Nodejs pour les nuls",
+    "price": 10,
+    "publication": "2020",
+    "description": "livre qui permet d'apprendre nodejs",
+    "type": "Informatique"
+  },
+  {
+    "id": 2,
+    "author": "Maupassant",
+    "titre": "Bel Ami",
+    "price": 10,
+    "publication": "1900",
+    "description": "roman",
+    "type": "Histoire"
+  },
+  {
+    "id": 3,
+    "author": "Hafets Haim",
+    "titre": "Michna beroura",
+    "price": 20,
+    "publication": "500",
+    "description": "livre de lois",
+    "type": "religion"
+  },
+  {
+    "id": 4,
+    "author": "Maupassant",
+    "titre": "Bel Amie",
+    "price": 20,
+    "publication": "500",
+    "description": "livre de lois",
+    "type": "Religion"
+  }
+]
